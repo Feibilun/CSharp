@@ -1,0 +1,8 @@
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\bin\Debug\netcoreapp2.1\BabyStroller.SDK.deps.json
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\bin\Debug\netcoreapp2.1\BabyStroller.SDK.dll
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\bin\Debug\netcoreapp2.1\BabyStroller.SDK.pdb
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\obj\Debug\netcoreapp2.1\BabyStroller.SDK.csproj.CoreCompileInputs.cache
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\obj\Debug\netcoreapp2.1\BabyStroller.SDK.AssemblyInfoInputs.cache
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\obj\Debug\netcoreapp2.1\BabyStroller.SDK.AssemblyInfo.cs
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\obj\Debug\netcoreapp2.1\BabyStroller.SDK.dll
+C:\Users\feibilun\source\repos\BabyStroller\BabyStroller.SDK\obj\Debug\netcoreapp2.1\BabyStroller.SDK.pdb

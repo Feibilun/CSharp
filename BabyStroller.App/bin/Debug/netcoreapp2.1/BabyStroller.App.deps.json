@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BabyStroller.App/1.0.0": {
+        "dependencies": {
+          "BabyStroller.SDK": "1.0.0",
+          "Animal.Lib": "1.0.0.0",
+          "Animal.Lib2": "1.0.0.0"
+        },
+        "runtime": {
+          "BabyStroller.App.dll": {}
+        }
+      },
+      "BabyStroller.SDK/1.0.0": {
+        "runtime": {
+          "BabyStroller.SDK.dll": {}
+        }
+      },
+      "Animal.Lib/1.0.0.0": {
+        "runtime": {
+          "Animal.Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Animal.Lib2/1.0.0.0": {
+        "runtime": {
+          "Animal.Lib2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BabyStroller.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BabyStroller.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Animal.Lib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Animal.Lib2/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

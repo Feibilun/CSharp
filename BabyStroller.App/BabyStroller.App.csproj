@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BabyStroller.SDK\BabyStroller.SDK.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Animal.Lib">
+      <HintPath>..\..\Animals\Animal.Lib\bin\Debug\netcoreapp2.1\Animal.Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Animal.Lib2">
+      <HintPath>..\..\Animals\Animal.Lib2\bin\Debug\netcoreapp2.1\Animal.Lib2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
